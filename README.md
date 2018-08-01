@@ -78,6 +78,7 @@
 * [prometheus](https://github.com/prometheus/prometheus)-The Prometheus monitoring system and time series database
 * [ink](https://github.com/InkProject/ink)-An elegant static blog generator.
 * [grafana](https://github.com/grafana/grafana)-The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
+* [beego](https://github.com/astaxie/beego)-beego is an open-source, high-performance web framework for the Go programming language. 
 
 ## Reference
 * [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go).
