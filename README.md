@@ -64,6 +64,7 @@
 * [Golang 中国](http://www.golangtc.com)-问答社区、图书、下载
 * [Golang 语言社区 (www.Golang.LTD)](http://www.golang.ltd)-问答社区
 * [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)-Go Solution for LeetCode algorithm problems, 100% coverage, continually updating.
+* [Golang 从入门到精通)](https://github.com/pingguoxueyuan/gostudy)-网易云课堂Golang从入门到精通.
 
 ## Projects
 
@@ -78,7 +79,10 @@
 * [prometheus](https://github.com/prometheus/prometheus)-The Prometheus monitoring system and time series database
 * [ink](https://github.com/InkProject/ink)-An elegant static blog generator.
 * [grafana](https://github.com/grafana/grafana)-The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
-* [beego](https://github.com/astaxie/beego)-beego is an open-source, high-performance web framework for the Go programming language. 
+* [beego](https://github.com/astaxie/beego)-beego is an open-source, high-performance web framework for the Go programming language.
+* [qt](https://github.com/therecipe/qt)-Qt binding for Go (Golang) with support for Windows、macOS、Linux、Android、iOS、Sailfish OS、Raspberry Pi、AsteroidOS、Ubuntu Touch、JavaScript.
+* [gitea](https://github.com/go-gitea/gitea)-Git服务器，源自gogs.
+* [gogs](https://github.com/gogs/gogs)-Git服务器.
 
 ## Reference
 * [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go).
