@@ -83,6 +83,7 @@
 * [qt](https://github.com/therecipe/qt)-Qt binding for Go (Golang) with support for Windows、macOS、Linux、Android、iOS、Sailfish OS、Raspberry Pi、AsteroidOS、Ubuntu Touch、JavaScript.
 * [gitea](https://github.com/go-gitea/gitea)-Git服务器，源自gogs.
 * [gogs](https://github.com/gogs/gogs)-Git服务器.
+* [GolangSerialTools](https://github.com/yizheneng/GolangSerialTools)-基于golang的串口调试工具
 
 ## Reference
 * [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go).
